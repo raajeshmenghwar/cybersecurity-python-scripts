@@ -46,4 +46,10 @@ This repository contains Python projects I have built during my learning journey
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/python.git
+   git clone https://github.com/raajeshmenghwar/cybersecurity-python-scripts.git
+   
+2. Navigate to the project folder and run the script:
+   ```bash
+   cd /path/to/project
+   python3 script_name.py
+
