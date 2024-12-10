@@ -4,7 +4,7 @@ This repository contains Python projects I have built during my learning journey
 
 ## Project List
 
-### [Auto]((https://github.com/raajeshmenghwar/cybersecurity-python-scripts/tree/main/auto))
+### [Auto](https://github.com/raajeshmenghwar/cybersecurity-python-scripts/tree/main/auto)
 - **Description**: A set of automation scripts designed for various tasks like handling multihandler, Nmap scanning, and SSH automation.
 - **Libraries Used**: `paramiko`, `nmap`, `time`
 
