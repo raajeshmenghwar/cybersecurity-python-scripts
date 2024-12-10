@@ -4,34 +4,34 @@ This repository contains Python projects I have built during my learning journey
 
 ## Project List
 
-### [Auto](#auto)
+### [Auto]((https://github.com/raajeshmenghwar/cybersecurity-python-scripts/tree/main/auto))
 - **Description**: A set of automation scripts designed for various tasks like handling multihandler, Nmap scanning, and SSH automation.
 - **Libraries Used**: `paramiko`, `nmap`, `time`
 
-### [Exploit](#exploit)
+### [Exploit](https://github.com/raajeshmenghwar/cybersecurity-python-scripts/tree/main/exploit)
 - **Description**: Contains a script that exploits vulnerabilities, specifically designed for `vsftpd` vulnerability testing.
 - **Libraries Used**: `socket`
 
-### [PCAP](#pcap)
+### [PCAP](https://github.com/raajeshmenghwar/cybersecurity-python-scripts/tree/main/pcap)
 - **Description**: A collection of scripts and files related to packet capture analysis and forensic examination.
 - **Libraries Used**: `scapy`, `pyshark`
 
-### [PortScanners](#portscanners)
+### [PortScanners](https://github.com/raajeshmenghwar/cybersecurity-python-scripts/tree/main/portScanners)
 - **Description**: Scripts to perform port scanning operations using custom methods.
 - **Libraries Used**: `socket`, `os`
 
 
-### [PySys](#pysys)
+### [PySys](https://github.com/raajeshmenghwar/cybersecurity-python-scripts/tree/main/pysys)
 - **Description**: A set of Python scripts to handle system operations, argument parsing, and encoding/decoding processes.
 - **Libraries Used**: `sys`, `argparse`
 
 
-### [Requests](#requests)
+### [Requests](https://github.com/raajeshmenghwar/cybersecurity-python-scripts/tree/main/requests)
 - **Description**: A collection of requests-related scripts for working with HTTP requests and responses.
 - **Libraries Used**: `requests`, `beautifulsoup4`
 
 
-### [Sock](#sock)
+### [Sock](https://github.com/raajeshmenghwar/cybersecurity-python-scripts/tree/main/sock)
 - **Description**: Basic socket programming scripts for client-server communication.
 - **Libraries Used**: `socket`
 
